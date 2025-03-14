@@ -1,4 +1,4 @@
-<h2 align="left">Hey👋! My name is Henrique and I'm a QA Engineer & Backend Developer</h2>
+<h2 align="left">Hey👋! My name is Henrique and I'm a QA Engineer </h2>
 
 ###
 
@@ -18,11 +18,10 @@
 - **Automation**: Cypress, Selenium, Playwright
 - **Test Management**: TestRail, Jira
 - **CI/CD**: GitHub Actions, Azure DevOps
-- **Testing**: API Testing (Postman, Rest Assured), Integration Testing, Unit Testing
+- **Testing**: API Testing (Postman, Rest Assured), Integration Testing, Unit Testing)
 
 #### Backend:
 - **Languages**: Java
-- **Frameworks**: Spring Boot
 - **Database**: PostgreSQL, MySQL
 
 #### Other Tools:
@@ -44,7 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"  />
   <img width="12" />
