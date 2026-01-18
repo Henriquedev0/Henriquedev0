@@ -1,60 +1,51 @@
-<h2 align="left">Hey 👋 I'm Henrique, a QA Engineer passionate about quality and automation!</h2>
+<h2 align="left">Hey 👋 I'm Henrique, QA Engineer (Manual) with 2+ years of experience</h2>
 
-###
 
+🚧 CTFL Certification — In Progress 🧪📘
 <div align="left">
   <img height="150" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquedev0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquedev0&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" />
 </div>
 
-###
+### 🧪 QA Focus (Manual First)
 
-### 🧪 Tech Stack
+- **Experience**: 2+ years as QA  
+- **Core Skills**: Test case design, exploratory testing, regression, integration  
+- **Documentation**: Test plans, test cases, evidences, bug reports  
+- **Agile**: Scrum / Kanban  
 
-#### ✅ QA
-- **Test Automation**: Cypress, Selenium, Playwright  
-- **Test Management**: TestRail, Jira  
-- **API Testing**: Postman, REST Assured  
-- **CI/CD**: GitHub Actions, Azure DevOps  
-- **Types of Testing**: Manual, Integration, Regression, Exploratory  
+#### 🧰 QA Tools & Frameworks
+- **Test Management**: TestRail, Azure Test Plans
+- **Bug Tracking**: Jira  
+- **API Testing**: Postman  
+- **Automation**: Cypress, Playwright, Selenium  
+- **Accessibility Testing**: WCAG, Axe DevTools  
+- **Browsers & DevTools**: Chrome DevTools  
+- **CI/CD (knowledge)**: GitHub Actions, Azure DevOps  
 
-#### 💻 Backend
-- **Languages**: Java  
-- **Databases**: PostgreSQL, MySQL  
+#### 📱 Types of Testing
+- Manual Web & API  
+- Accessibility Testing  
+- Smoke, Sanity, Regression  
+- Exploratory  
+- Integration  
 
-#### 🛠️ Tools & Others
+### 🛠️ Tools & Environment
 - **Version Control**: Git  
-- **Containers**: Docker  
-- **Operating System**: Linux/macOS  
-
-###
+- **Containers (basic)**: Docker  
+- **OS**: macOS
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriquedev0&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriquedev0&theme=dracula" />
 </div>
 
-###
-
-### 🧰 Favorite Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" />
-</div>
-
-###
-
-### 📬 Contact Me
+### 📬 Contact
 <div align="left">
   <a href="mailto:henriquerocha.dev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/henriquedev0">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
