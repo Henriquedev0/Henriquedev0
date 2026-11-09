@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 I'm Henrique, QA Engineer (Manual) with 2+ years of experience</h2>
+<h2 align="left">Hey 👋 I'm Henrique, QA Engineer with 3+ years of experience</h2>
 
 
 🚧 CTFL Certification — In Progress 🧪📘
@@ -9,7 +9,7 @@
 
 ### 🧪 QA Focus (Manual First)
 
-- **Experience**: 2+ years as QA  
+- **Experience**: 3+ years as QA  
 - **Core Skills**: Test case design, exploratory testing, regression, integration  
 - **Documentation**: Test plans, test cases, evidences, bug reports  
 - **Agile**: Scrum / Kanban  
